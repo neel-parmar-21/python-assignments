@@ -13,17 +13,13 @@ print(f"My name is: {name}""\n"
       f"The price is: {price}""\n"
       f"The total price is: {total_price}""\n"
 )
-a,b=map(int,input("Enter two numbers: ").split())
+a,b = map(int,input("Enter two numbers: ").split())
 print(a,b, type(a), type(b))
 
-a,b=map(int,input("Enter two numbers: ").split()[:2])
+a,b = map(int,input("Enter two numbers: ").split()[:2])
 print(a,b, type(a), type(b),)
 
-
-
-
-
-
-
-
-
+date = input("Enter the date: ")
+month = int("09")
+year = 2026
+print(date, month, year, end=" ")
