@@ -12,7 +12,7 @@ Each topic has its own folder containing the code practiced during class and the
 
 Each topic is organized like this:
 
-```text
+~~~text
 Topic-Name/
 │
 ├── class.py
@@ -20,16 +20,16 @@ Topic-Name/
 │
 └── assignment.md
     └── Assignments and questions for that particular topic
-```
+~~~
 
 ### 📌 Example
 
-```text
+~~~text
 01-Introduction to Python/
 │
 ├── class.py
 └── assignment.md
-```
+~~~
 
 `class.py` contains the **practice and code completed during class**, while `assignment.md` contains the **assignments and questions for that specific topic**.
 
@@ -46,6 +46,7 @@ Topic-Name/
 | 05 | Strings |
 | 06 | Boolean Operators |
 | 07 | Input and Output |
+| 08 | Conditional Statements |
 
 > 🔄 More Python topics will be added as I continue learning.
 
@@ -63,15 +64,16 @@ Through these topics, I'm building my understanding of Python fundamentals, incl
 - 📝 Strings
 - ✅ Boolean values and operators
 - ⌨️ User input and output
+- 🔀 Conditional statements
 - 🧩 Problem-solving through practice
 
 ---
 
 ## 🎯 My Learning Approach
 
-```text
+~~~text
 Learn → Understand → Practice → Solve → Improve
-```
+~~~
 
 I prefer understanding **how and why something works** rather than simply copying a solution.
 
@@ -90,16 +92,17 @@ This repository is a record of that process — from classroom practice and assi
 
 ## 📈 Current Progress
 
-```text
-01  Introduction to Python      ✅
-02  Variables                   ✅
-03  Data Types & Type Casting   ✅
-04  Arithmetic Operators        ✅
-05  Strings                     ✅
-06  Boolean Operators            ✅
-07  Input and Output             ✅
-08  More Python Concepts         🔄
-```
+~~~text
+01  Introduction to Python        ✅
+02  Variables                     ✅
+03  Data Types & Type Casting     ✅
+04  Arithmetic Operators          ✅
+05  Strings                       ✅
+06  Boolean Operators             ✅
+07  Input and Output              ✅
+08  Conditional Statements        ✅
+09  More Python Concepts          🔄
+~~~
 
 ---
 
@@ -107,18 +110,17 @@ This repository is a record of that process — from classroom practice and assi
 
 As I continue learning Python, this repository will grow with:
 
-```text
+~~~text
 Lists
 Tuples
 Dictionaries
-Conditional Statements
 Loops
 Functions
 Modules
 File Handling
 Object-Oriented Programming
 Projects
-```
+~~~
 
 The goal is to move from **Python fundamentals → problem solving → projects**.
 
@@ -128,7 +130,7 @@ The goal is to move from **Python fundamentals → problem solving → projects*
 
 **Current Focus:** Python Fundamentals 🐍
 
-**Topics Completed:** 7
+**Topics Completed:** 8
 
 **Status:** 🟢 Actively Learning
 
