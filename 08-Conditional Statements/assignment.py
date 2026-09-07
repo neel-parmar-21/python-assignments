@@ -192,7 +192,7 @@ elif number > 100:
 
 #Task 23
 age = int(input("Enter your age: ")) >= 18
-has_id = input("Do you have id? True or False: ") == "True"
+has_id = input("Do you have id? True or False: ").lower() == "true"
 
 if age and has_id:
     print("Allowed")
@@ -243,9 +243,9 @@ else:
     print("It is inside the range")
 
 #Task 29
-is_student = input("Are you a student? Yes or No: ") == "Yes"
-has_id = input("Do you have student id? Yes or No: ") == "Yes"
-has_ticket = input("Are you have ticket? Yes or No: ") == "Yes"
+is_student = input("Are you a student? Yes or No: ").lower() == "yes" 
+has_id = input("Do you have student id? Yes or No: ").lower() == "yes"
+has_ticket = input("Are you have ticket? Yes or No: ").lower() == "yes"
 
 if is_student and has_id and has_ticket:
     print("Allowed")
